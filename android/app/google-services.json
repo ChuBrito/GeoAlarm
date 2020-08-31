@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "515388049606",
+    "firebase_url": "https://geoalarm-b7aa7.firebaseio.com",
+    "project_id": "geoalarm-b7aa7",
+    "storage_bucket": "geoalarm-b7aa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515388049606:android:cd517a4cbfd0346899efc7",
+        "android_client_info": {
+          "package_name": "com.bento.geoAlarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515388049606-jo1u1ggom0vjdiegejt0qq1so2adatro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bento.geoAlarm",
+            "certificate_hash": "e7a7c8c2efb7ce2f7f239457dcd1624f9ec0894d"
+          }
+        },
+        {
+          "client_id": "515388049606-a1oban3965vc62dmu8fq28a7m5b9grua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPF9Sj0r2LwKdnhN71YhYJzbIdBS9z914"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515388049606-a1oban3965vc62dmu8fq28a7m5b9grua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
